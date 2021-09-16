@@ -1,0 +1,13 @@
+body {
+    background-color: #CABAC8;
+}
+.my-name { 
+    color: #81D6E3; 
+    border-style: outset;
+}
+
+.photo { 
+    border: 30px solid #555;
+    width: 220px; height: 400px;
+
+}
